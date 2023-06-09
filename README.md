@@ -24,9 +24,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Assigning an administrator account
 - Assigning employee accounts
-- Making tickets
-- Assigning tickets
-- Life cycle of a ticket
+- 3
+- 4
+- 5
 
 <h2>Configuration Steps</h2>
 
